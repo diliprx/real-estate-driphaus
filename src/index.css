@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&family=Huninn&family=Outfit:wght@100..900&family=Prata&family=Press+Start+2P&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  font-family: 'Chilanka', 'Huninn', 'Outfit', 'Prata', 'Press Start 2P', 'Roboto', sans-serif;
+}
