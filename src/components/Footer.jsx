@@ -19,7 +19,7 @@ const Footer = () => {
 
                 </ul>
             </div>
-            <div className='w-full md:w-1/3 '>
+            <div className='w-full md:w-[300px]'>
             <h3 className='text-white text-lg font-bold mb-4'>Subscribe to our Newsletter</h3>
             <p className='text-gray-400 mb-4 max-w-80'>The lates news, articles and resource, sent to your inbox weekly</p>
             <div className='flex gap-2 mb-3' >
